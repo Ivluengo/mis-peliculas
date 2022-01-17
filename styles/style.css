@@ -1,0 +1,8 @@
+body {
+  background-color: #f50045;
+  background-image: url("https://www.transparenttextures.com/patterns/gray-lines.png");
+}
+
+.movie-list h2 i {
+  cursor: pointer;
+}
